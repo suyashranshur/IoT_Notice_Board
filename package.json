@@ -1,0 +1,10 @@
+{
+  "name": "iot-notice-board",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.0",
+    "cors": "^2.8.5",
+    "pg": "^8.11.5"
+  }
+}
